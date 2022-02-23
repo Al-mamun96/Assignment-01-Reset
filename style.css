@@ -4,6 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* main section  */
 section{
     margin-bottom: 90px;
 }
@@ -35,14 +36,15 @@ h2{
     font-weight: 700;
 }
 
-.mission-title{
-    font-size: 45px;
-    text-align: center;
-}
 h3{
     font-weight: 700;
     
 }
+.mission-title{
+    font-size: 45px;
+    text-align: center;
+}
+
 
 .colorful{
     color: rgba(68, 221, 226, 0.836);
@@ -56,6 +58,9 @@ h3{
     border-radius: 5px;
     font-weight: 700;
 }
+
+/* mission section  */
+
 .mission-section{
     display: flex;
     margin: 0 150px; 
@@ -83,6 +88,7 @@ h3{
     background-color: rgba(219, 163, 191, 0.274);
 }
 
+/* develop section  */
 
 .develop-section{
     display: flex;
@@ -104,6 +110,8 @@ h3{
     width: 60%;
     margin-left: 60px;
 }
+
+/* footer  */
 footer{
     background-color: black;
     color: white;
