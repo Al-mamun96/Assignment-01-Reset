@@ -40,7 +40,7 @@ h3{
     font-weight: 700;
     
 }
-.mission-title{
+.title{
     font-size: 45px;
     text-align: center;
 }
@@ -110,6 +110,18 @@ h3{
     width: 60%;
     margin-left: 60px;
 }
+
+/* bonus section  */
+.project{
+    background-color: rgba(148, 114, 179, 0.692);
+    color: white;
+    border-radius: 12px;
+}
+.project img{
+    height: 200px;
+    width: 300px;
+}
+
 
 /* footer  */
 footer{
